@@ -1,0 +1,6 @@
+chris,chris1111,christina yoo,0123456789,20,Passport,D12345,20240323,7_8_9,clean usage_polite_neat,1,none
+Honda,Black,660,Automatic,2015,Clean and fast Honda motorcycle,Sai Gon,none,7_7_5,okay_good_clean,1,0,
+bob,bob1111,bobby,0123456789,15,Citizen ID,D12466,20251120,,,1,none
+Triumph,Red,1800,Automatic,2020,Cool and nice Triumph motorcycle,Ha Noi,none,,,1,1,7,5,20231025,20231125
+jonhwick,jonhwick,Bao,1234,20,s3901,333455,20 2023,,,none,1
+Triumph,red,5576,22334,0,Cool,Ha Noi,none,,,1,0,
